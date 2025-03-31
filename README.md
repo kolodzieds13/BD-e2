@@ -1,4 +1,4 @@
-# BD-e2: A Biomass Density Model for the Emerald Edge Rain Forest
+# BD-e2: A Biomass Density Model for the Emerald Edge Rainforest
 - Contains all methods outlined in [Insert Publication]
 ## Primary POC: 
 - David Kolodziejski: kolodzieds13@gmail.com
