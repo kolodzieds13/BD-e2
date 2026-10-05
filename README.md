@@ -5,8 +5,10 @@
 
 ## Primary POC: 
 - David Kolodziejski: kolodzieds13@gmail.com
+- - dsad
 
 ## BE-e2 Google Earth Engine Repo
+Repository for extracting GEDI infused Landsat Spectral data.
 - https://github.com/kolodzieds13/BD-e2-EarthEngineJS
   
 ## BD-e2 GEE Dashboard:
