@@ -4,8 +4,12 @@
 ![](figs/BD-e2%20Workflow.png)
 
 ## Primary POC: 
-- David Kolodziejski: kolodzieds13@gmail.com
-  - dsad
+- Primary technical contacts
+  - David Kolodziejski: kolodzieds13@gmail.com
+- Primary manuscript authors
+  - David Kolodziejski: kolodzieds13@gmail.com
+  - Tanushree Biswas: tanushree.biswas@tnc.org
+  - Rose Graves: rose.graves@tnc.org
 
 ## BE-e2 Google Earth Engine Repo
 Repository for extracting GEDI infused Landsat Spectral data.
