@@ -12,7 +12,7 @@
   - Tanushree Biswas: tanushree.biswas@tnc.org
   - Rose Graves: rose.graves@tnc.org
 
-## BE-e2 Google Earth Engine Repo
+## BD-e2 Google Earth Engine Repo
 Repository for extracting GEDI infused Landsat Spectral data.
 - https://github.com/kolodzieds13/BD-e2-EarthEngineJS
   
