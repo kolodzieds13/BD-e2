@@ -7,9 +7,11 @@
 - David Kolodziejski: kolodzieds13@gmail.com
 
 ## BE-e2 Google Earth Engine Repo
--
+- https://github.com/kolodzieds13/BD-e2-EarthEngineJS
+  
 ## BD-e2 GEE Dashboard:
 - https://ee-kolodzieds13.projects.earthengine.app/view/gedi-biomass-predictions-emerald-edge-rainforest-v2d1#lat=47.9132;lon=-123.6958;zoom=9;
+  
 ## Abstract
 Improved forest management (IFM) that enhances carbon storage with silvicultural practices is crucial for climate change mitigation but currently lacks transparent, cost-effective monitoring methods. Thus, we developed the Emerald Edge Biomass Density Model (BD-e2) comprising open-source tools, remote sensing data, and machine learning models that predict aboveground biomass density (AGBD) at 30m resolution and map historical AGBD (1985-2023). We tested this data-driven approach across 863,662 ha of forest in western Washington, USA, leveraging 17,287 Global Ecosystem Dynamic Investigation (GEDI) ABGD observations (2019-2023) and predictor variables derived from Landsat observations (39-year series) and environmental data across the study area (R² = 0.72, MAE = 76.97 Mg/ha).
 
